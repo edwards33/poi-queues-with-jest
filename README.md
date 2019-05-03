@@ -6,6 +6,12 @@
 $ npm i -g poi
 ```
 
+  Install Jest:
+
+```bash
+$ npm i -D jest
+```
+
   Run App and open it in a Web browser:
 
 ```bash
